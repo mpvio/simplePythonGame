@@ -1,3 +1,5 @@
+NOTE: Run VIEW_game_ui.py if not using the .exe file.
+
 This is a 3 vs 3 battler. Each participant is randomly generated, with your team in the top row and the AI opponent’s on the bottom. Each unit has a starting ATK of 4 and 20 HP.
 
 Game flow:
