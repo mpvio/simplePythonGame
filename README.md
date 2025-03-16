@@ -1,4 +1,4 @@
-NOTE: Run VIEW_game_ui.py if not using the .exe file.
+NOTE: Run VIEW_game_ui.py if not using the .exe file obtainable from Dropbox (also download the _internal folder!): https://mega.nz/folder/eQYm2bLQ#e2wkF7svfj4_ssWnEKtA_g
 
 This is a 3 vs 3 battler. Each participant is randomly generated, with your team in the top row and the AI opponent’s on the bottom. Each unit has a starting ATK of 4 and 20 HP.
 
